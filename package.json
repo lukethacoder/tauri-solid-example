@@ -16,7 +16,7 @@
     "postcss": "8.4.14",
     "postcss-cli": "9.1.0",
     "prettier": "2.6.2",
-    "typescript": "4.7.2",
+    "typescript": "4.7.3",
     "vite": "2.9.9",
     "vite-plugin-solid": "2.2.6"
   },
