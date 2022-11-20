@@ -1251,16 +1251,17 @@ update-browserslist-db@^1.0.5:
     escalade "^3.1.1"
     picocolors "^1.0.0"
 
-vite-plugin-solid@2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/vite-plugin-solid/-/vite-plugin-solid-2.3.0.tgz#d479459dc45d30ce8eea1eafdf7bcf85c25a8004"
-  integrity sha512-N2sa54C3UZC2nN5vpj5o6YP+XdIAZW6n6xv8OasxNAcAJPFeZT7EOVvumL0V4c8hBz1yuYniMWdESY8807fVSg==
+vite-plugin-solid@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/vite-plugin-solid/-/vite-plugin-solid-2.4.0.tgz#15478cc5afc6d79095cba67e7b44e462feb4db12"
+  integrity sha512-Rr+t2sr9TWIvH16yzBZzx6O9YSpYAvcwKUMPqbi/4iU3mRumXQ4O10i1XGtQIynC7U3XwJsMzAJigDFGbiJBiw==
   dependencies:
     "@babel/core" "^7.18.6"
     "@babel/preset-typescript" "^7.18.6"
     babel-preset-solid "^1.4.6"
     merge-anything "^5.0.2"
     solid-refresh "^0.4.1"
+    vitefu "^0.1.1"
 
 vite@3.0.4:
   version "3.0.4"
@@ -1273,6 +1274,11 @@ vite@3.0.4:
     rollup "^2.75.6"
   optionalDependencies:
     fsevents "~2.3.2"
+
+vitefu@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/vitefu/-/vitefu-0.1.1.tgz#d12f2d6650c618cc3dfd9f3b331b3b6923bbe364"
+  integrity sha512-HClD14fjMJ+NQgXBqT3dC3RdO/+Chayil+cCPYZKY3kT+KcJomKzrdgzfCHJkIL2L0OAY+VPvrSW615iPtc7ag==
 
 wrap-ansi@^7.0.0:
   version "7.0.0"
